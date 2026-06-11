@@ -1,5 +1,3 @@
-## Bem-vindo(a) ao perfil do Luiz Fernando Valentim 😁
-
  <div>
    <a href="https://github.com/LuizFernandoValentim">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizFernandoValentim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
